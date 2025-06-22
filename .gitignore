@@ -1,0 +1,8 @@
+terraform.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
+.crash/
+ec2-key
+ec2-key.pem
+ec2-key.pub
